@@ -21,3 +21,6 @@ https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
 
 Video do papper sobre Visualização de Conv Nets
 https://www.youtube.com/watch?v=ghEmQSxT6tw
+
+Tutorial Sobre Convolutional Neural Network
+https://webcache.googleusercontent.com/search?q=cache:p19L-9Hm7-8J:https://skymind.ai/wiki/convolutional-network+&cd=23&hl=en&ct=clnk&gl=br

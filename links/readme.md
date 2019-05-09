@@ -18,3 +18,6 @@ https://keras.io/
 
 Visualizing Conv nets
 https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf
+
+Video do papper sobre Visualização de Conv Nets
+https://www.youtube.com/watch?v=ghEmQSxT6tw

@@ -15,3 +15,6 @@ https://www.fast.ai/
 
 Keras (Framework para deep learning)
 https://keras.io/
+
+Visualizing Conv nets
+https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf

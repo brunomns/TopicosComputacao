@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=ghEmQSxT6tw
 
 Tutorial Sobre Convolutional Neural Network
 https://webcache.googleusercontent.com/search?q=cache:p19L-9Hm7-8J:https://skymind.ai/wiki/convolutional-network+&cd=23&hl=en&ct=clnk&gl=br
+
+Curso Introdução a Aprendizagem de Máquina Supervisionada com scikit-learn da DataComp
+https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/

@@ -27,3 +27,7 @@ https://webcache.googleusercontent.com/search?q=cache:p19L-9Hm7-8J:https://skymi
 
 Curso Introdução a Aprendizagem de Máquina Supervisionada com scikit-learn da DataComp
 https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/
+
+
+Link de como instalar o Keras no Windows
+https://github.com/antoniosehk/keras-tensorflow-windows-installation
